@@ -1,2 +1,0 @@
-#numpy module version 1.19.4 is required.
-numpy==1.19.4
